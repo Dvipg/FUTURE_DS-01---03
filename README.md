@@ -8,7 +8,7 @@ This repository contains **three end-to-end analytics projects**, completed as p
 
 ---
 
-## ✅ TASK 1: E-Commerce Sales Analysis (Power BI)
+## ✅ TASK 1: E-Commerce Sales Analysis
 
 **Dataset:** Online Retail (2009–2010) and Online Retail (2010-2011) |
 **Tool:** Power BI + Excel |
@@ -82,28 +82,11 @@ Actionable recommendations.
 
 ---
 
-Future_DS-01-03/
-│
-├── README.md                          # Main portfolio overview
-├── Task-1-E-Commerce-Sales-Dashboard/
-│   ├── README.md
-│   ├── online_retail (2009-2010).xlsx
-|   ├── online_retail (2010-2011).xlsx
-│   └── Future_DS 01.pbix
-│
-├── Task-2-Marketing-Campaign-Analytics/
-│   ├── README.md
-│   ├── Marketing-Data.xlsx
-│   └── Task 2.pbix
-│
-└── Task-3-Student-Feedback-Analysis/
-    ├── README.md
-    ├── student_feedback.csv
-    ├── Task3-Sentiment-analysis.ipynb
-    └── outputs/
-        ├── ratings_by_criteria.png     
-        ├── satisfaction_distribution.png 
-        ├── correlation_heatmap.png     
-        └── Feedback_Analysis_Report.txt
+## 📫 Connect With Me
 
------------------------ # The End -----------------------------------------
+- [**LinkedIn**](https://www.linkedin.com/in/dvipg/)
+- [**Email**](deepeshg4223@gmail.com)
+
+---
+
+**Certification**: Future Interns Data Scientist Internship (Dec 2025)
