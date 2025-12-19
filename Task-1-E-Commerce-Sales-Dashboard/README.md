@@ -15,7 +15,7 @@ This project analyzes transactional sales data from a UK-based online retailer (
 
 ## 📊 Dataset Summary
 
-* **Source:** Kaggle – Online Retail II Dataset
+* **Source:** Kaggle – [Online Retail II Dataset](https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository)
 * **Time Period:** 2009–2011
 * **Total Records:** ~1.06 million transactions
 * **Key Fields:** Invoice, Product Description, Quantity, Unit Price, Invoice Date, Customer ID, Country
